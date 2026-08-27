@@ -1,6 +1,11 @@
 # Samama_sniffers_python
 
+
+**note:** This program is currently written in Python, but soon you will see this entire suite engineered in C, C++, and native Machine Language for maximum hardware-level performance.
+ 
 # Samama-network-forensics-suite
+
+
 #  Tactical Defensive Network Forensics & Cryptanalytic Intelligence Suite
 
 An elite, multi-modular passive network monitoring ecosystem, high-performance intrusion detection architecture, and traffic metadata profiling suite written entirely from scratch in Python. Operating statefully across 8,800+ lines of custom production-grade logic, this framework maps bidirectional packet integrity streams, parses complex network layers, and intercepts traffic anomalies using mathematical behavioral baselines.
